@@ -49,4 +49,4 @@ Smart-Water-Leak-Detection/
 - Leak risk score per household
 
 ### Author
-## Simran ##
+Simran 
