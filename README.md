@@ -47,6 +47,9 @@ Smart-Water-Leak-Detection/
 ### Output
 - CSV for Power BI
 - Leak risk score per household
+<img width="1912" height="1011" alt="image" src="https://github.com/user-attachments/assets/ed2665cf-bfc0-4fc9-a467-0b7a9b868cd7" />
+
 
 ### Author
 Simran 
+
